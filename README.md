@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Alina
 
-- 🌱 I’m currently learning ![Typescript](https://img.shields.io/badge/typescript-6DA55F?style=for-the-badge&logo=typescript&logoColor=white)
 - 📫 How to reach me: <strong>alinaa.lemishko@gmail.com</strong>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alina-Lemishko&theme=nord_bright)
